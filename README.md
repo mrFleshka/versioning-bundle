@@ -1,3 +1,7 @@
+## This is forked project. [Author repository](https://github.com/shivas/versioning-bundle)
+
+---
+
 versioning-bundle
 =================
 
